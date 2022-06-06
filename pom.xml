@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>kr.re.kitri</groupId>
-    <artifactId>devops</artifactId>
+    <artifactId>webapp</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
     <name>devops-demo</name>
@@ -36,6 +36,7 @@
     </dependencies>
 
     <build>
+        <finalName>webapp</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
