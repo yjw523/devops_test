@@ -9,8 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>kr.re.kitri</groupId>
-    <artifactId>devops-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>devops</artifactId>
     <packaging>war</packaging>
     <name>devops-demo</name>
     <description>devops-demo</description>
