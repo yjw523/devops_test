@@ -10,6 +10,7 @@
     </parent>
     <groupId>kr.re.kitri</groupId>
     <artifactId>devops</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging>
     <name>devops-demo</name>
     <description>devops-demo</description>
