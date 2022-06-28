@@ -8,11 +8,11 @@ public class HomeController {
 
     @GetMapping("")
     public String home() {
-        return "Hello World.. ㅇㅏㄴ녕하세요.. 반갑습니다.";
+        return "Hello World.";
     }
 
     @GetMapping("home")
     public String homeAgain() {
-        return "Hello World.. Again..sss 뭐라도 바꿨습니다.";
+        return "Hello World.. Again..sss.";
     }
 }
